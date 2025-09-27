@@ -4,7 +4,7 @@ Crea una estructura HTML (index.html) con los siguientes elementos:
 - Un header con un logo (puede ser texto) y un menú de navegación con 3 enlaces.
 
 - Una sección principal (main) con:
-  * Un título <h1> y subtítulo <h2>.
+  * Un título y subtítulo.
   * Un párrafo de texto introductorio.
   * Una imagen
   * Una sección de “cards” con 3 tarjetas que incluyan: título, texto y un botón.
